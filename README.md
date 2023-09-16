@@ -1,6 +1,4 @@
-# Hello, I'm Cheikh Mbengue 👋
-
-## About Me
+# About Me
 
 I live in the Caribbean on [Saint Lucia](https://en.wikipedia.org/wiki/Saint_Lucia) island. While I wouldn't call myself a technophile, I enjoy seeking and employing new technology to improve my environment.
 
