@@ -2,7 +2,7 @@
 
 I live in the Caribbean on [Saint Lucia](https://en.wikipedia.org/wiki/Saint_Lucia) island. While I wouldn't call myself a technophile, I enjoy seeking and employing new technology to improve my environment.
 
-I am the lead Research and Engineering Scientist at [Elizabeth Consulting International Inc.](https://www.ec-intl.com). Also, I'm the Project Manager, a Research Scientist, and the Model Products lead at the [Climate Modeling Alliance](https://clima.caltech.edu) (CliMA), where I focus on delivering value through well-structured and efficiently managed projects. My mission at CliMA is to manage the on-time delivery of a much-needed, world-class ESM and to develop the tools to decimate the data and insights derived from it. Over the years, I've worked on various projects in sectors like software development, business process automation and optimization, and FinTech.
+I am the lead Research and Engineering Scientist at [Elizabeth Consulting International Inc.](https://www.ec-intl.com). Also, I'm the Project Manager, a Research Scientist, and the Model Products lead at the [Climate Modeling Alliance](https://clima.caltech.edu) (CliMA), where I focus on delivering value through well-structured and efficiently managed projects. My mission at CliMA is to manage the on-time delivery of a much-needed, world-class ESM and to develop the tools to analyze the data and insights derived from it. Over the years, I've worked on various projects in sectors like software development, business process automation and optimization, and FinTech.
 
 🔭 **Currently Working On:**
 
@@ -25,7 +25,7 @@ I am open to collaborations that complement my current work:
 
 🎓 **Fun Fact:**
 
-- I earned free fall skydiving wings from the U.S. Air Force Academy
+- I earned free-fall skydiving wings from the U.S. Air Force Academy
 
 ---
 
@@ -57,7 +57,8 @@ Feel free to let me know if you want to collaborate on a project or if you need 
 - LinkedIn: [cmbengue](https://www.linkedin.com/in/cmbengue/)
 - Twitter: [@combengue](https://twitter.com/combengue)
 - Google: [cmbengue](https://g.dev/cmbengue)
-
+- Google Scholar: [Cheikh Oumar Mbengue](https://scholar.google.com/citations?user=oHootLcAAAAJ&hl=en)
+- Strava: [Cheikh Mbengue](https://strava.app.link/qfNZHGOey2b)
 ---
 
 Need More information? 😊
