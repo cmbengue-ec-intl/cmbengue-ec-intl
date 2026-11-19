@@ -22,6 +22,10 @@ Explore my [research](https://cmbengue-ec-intl.github.io/research/) and [publica
 
 Python, Julia, Django, JavaScript, HTML/CSS, Bash/Zsh, C++ and Fortran. Git/GitHub, cloud workflows, LaTeX, and scientific documentation. PRINCE2 Agile, product-based planning, and research-team coordination.
 
+## Recent service and speaking
+
+In 2026, I served as a chapter reviewer for Working Group I of the IPCC Seventh Assessment Report. I also gave an invited presentation, *From Climate Models to Adaptation Decisions: Questions of confidence and bridging gaps*, at the Chinese University of Hong Kong on 12 October 2026.
+
 ## Beyond work
 
 I’m a Commonwealth Caribbean Rhodes Scholar and have served on the scholarship’s selection committee. Away from work, I enjoy running, cricket, karate, playing the viola, and time with family and friends.
