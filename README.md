@@ -1,70 +1,37 @@
-# About Me
+# Cheikh Oumar Mbengue
 
-I live in the Caribbean on [Saint Lucia](https://en.wikipedia.org/wiki/Saint_Lucia) island. While I wouldn't call myself a technophile, I enjoy seeking and employing new technology to improve my environment.
+### Climate science, engineering, and research leadership
 
-I am the lead Research and Engineering Scientist at [Elizabeth Consulting International Inc.](https://www.ec-intl.com). Also, I'm the Project Manager, a Research Scientist, and the Model Products lead at the [Climate Modeling Alliance](https://clima.caltech.edu) (CliMA), where I focus on delivering value through well-structured and efficiently managed projects. My mission at CliMA is to manage the on-time delivery of a much-needed, world-class ESM and to develop the tools to analyze the data and insights derived from it. Over the years, I've worked on various projects in sectors like software development, business process automation and optimization, and FinTech.
+I’m a climate and Earth-system scientist based in Castries, Saint Lucia. I work on understanding atmospheric circulation and turning climate information into practical tools for engineers, planners, and researchers.
 
-🔭 **Currently Working On:**
+I founded and lead [Elizabeth Consulting International Inc.](https://www.ec-intl.com), where my work spans applied research, scientific software, climate-data systems, and project delivery. At the [Climate Modeling Alliance (CliMA)](https://clima.caltech.edu), I serve as Project Manager, Research Scientist, and Model Products Lead, supporting Earth system model development and its applications.
 
-- Managing the development of the CliMA ESM
-- A web application to deliver design condition information to planners and engineers
-- Managing the development of small business management and optimization software solutions
-- Integrating AI into management and delivery processes
+## My work
 
-🌱 **Learning:**
+- **Climate science:** storm tracks, tropical–extratropical interactions, and model hierarchies that help explain atmospheric behavior.
+- **Applied research and engineering:** climate design conditions, climate-file workflows, and decision-relevant information, with a growing focus on small island developing states.
+- **Scientific software and delivery:** coordinating research and software teams, defining acceptance criteria, and connecting model development to usable products.
 
-- Scaled container orchestration
-- To upgrade my cloud integration and deployment skills
+## Recent research
 
-👯 **Collaborations:**
+I coauthored the 2026 paper [The Climate Modeling Alliance Atmosphere Dynamical Core: Concepts, Numerics, and Scaling](https://doi.org/10.1029/2025MS005014), with a contribution in project administration.
 
-I am open to collaborations that complement my current work:
+Explore my [research](https://cmbengue-ec-intl.github.io/research/) and [publications](https://cmbengue-ec-intl.github.io/publications/).
 
-- Projects that deliver actionable climate information to a diversity of users
-- Projects that develop frontend apps that deliver weather and climate information
+## Tools and methods
 
-🎓 **Fun Fact:**
+Python, Julia, Django, JavaScript, HTML/CSS, Bash/Zsh, C++ and Fortran. Git/GitHub, cloud workflows, LaTeX, and scientific documentation. PRINCE2 Agile, product-based planning, and research-team coordination.
 
-- I earned free-fall skydiving wings from the U.S. Air Force Academy
+## Recent service and speaking
 
----
+In 2026, I served as a chapter reviewer for Working Group I of the IPCC Seventh Assessment Report. I also gave an invited presentation, *From Climate Models to Adaptation Decisions: Questions of confidence and bridging gaps*, at the Chinese University of Hong Kong on 12 October 2026.
 
-## 🛠️ Technologies & Tools
+## Beyond work
 
-### Software Development
+I’m a Commonwealth Caribbean Rhodes Scholar and have served on the scholarship’s selection committee. Away from work, I enjoy running, cricket, karate, playing the viola, and time with family and friends.
 
-- Scripting: Bash, Zsh, Csh
-- Interpreted (JIT) Languages: Python, Julia
-- Web development: Django, HTML, CSS, JavaScript
-- Compiled: C++, FORTRAN
-- Proprietary: Matlab, Mathematica
-- Version Control: Git, GitHub
-- Misc: Regex, Linux, MacOS, VSCode, AppSheet
+## Connect
 
-### Project Management
+I welcome conversations about climate science, applied research, scientific software, and useful climate information for island communities.
 
-- Project Management: Prince2-Agile, Github Projects, Google Suite
-- Communication: Slack, Microsoft Teams, Google Meet
-- Documentation: LaTex, ReST, Sphinx
-
----
-
-## 📫 How to Reach Me
-
-Feel free to let me know if you want to collaborate on a project or if you need project management advice. Here's where you can find me:
-
-- Email: [cmbengue@ec-intl.com](mailto:cmbengue@ec-intl.com)
-- LinkedIn: [cmbengue](https://www.linkedin.com/in/cmbengue/)
-- Twitter: [@combengue](https://twitter.com/combengue)
-- Google: [cmbengue](https://g.dev/cmbengue)
-- Google Scholar: [Cheikh Oumar Mbengue](https://scholar.google.com/citations?user=oHootLcAAAAJ&hl=en)
-- Strava: [Cheikh Mbengue](https://strava.app.link/qfNZHGOey2b)
----
-
-Need More information? 😊
-
-🔗 [Visit My Website](https://cmbengue-ec-intl.github.io)
-
----
-
-⭐️ [cmbengue-ec-intl](https://github.com/cmbengue-ec-intl)
+[Website](https://cmbengue.org) · [Email](mailto:cmbengue@ec-intl.com) · [LinkedIn](https://www.linkedin.com/in/cmbengue/) · [Google Scholar](https://scholar.google.com/citations?user=oHootLcAAAAJ&hl=en)
