@@ -2,7 +2,7 @@
 
 Climate scientist and engineer by training in Castries, Saint Lucia.
 
-I am the founder and Managing Director of [Elizabeth Consulting International Inc.](https://www.ec-intl.com) (ECI), and the Project Manager, a Senior Research Scientist, and the Model Products Lead at the [Climate Modeling Alliance](https://clima.caltech.edu) (CliMA) at Caltech. My published research is on midlatitude storm tracks, the eddy-driven jet, the Hadley circulation, and tropical-extratropical interactions.
+I am the founder and Managing Director of [Elizabeth Consulting International Inc.](https://www.ec-intl.com) (ECI), and the Project Manager, a Senior Research Scientist, and the Model Products Lead at the [Climate Modeling Alliance](https://clima.caltech.edu) (CliMA) at Caltech. My research focuses on midlatitude storm tracks, the eddy-driven jet, the Hadley circulation, and tropical-extratropical interactions.
 
 ## Current work
 
@@ -13,7 +13,7 @@ I am the founder and Managing Director of [Elizabeth Consulting International In
 
 ## Recent publication
 
-I am a coauthor of [The Climate Modeling Alliance Atmosphere Dynamical Core: Concepts, Numerics, and Scaling](https://doi.org/10.1029/2025MS005014) (Yatunin et al., 2026, *Journal of Advances in Modeling Earth Systems*). The author-contribution statement in the paper lists my role as project administration.
+My work at CliMA includes project management for the atmosphere model described in our paper, [The Climate Modeling Alliance Atmosphere Dynamical Core: Concepts, Numerics, and Scaling](https://doi.org/10.1029/2025MS005014) (Yatunin et al., 2026, *Journal of Advances in Modeling Earth Systems*).
 
 My website lists my [research](https://cmbengue-ec-intl.github.io/research/) and [publications](https://cmbengue-ec-intl.github.io/publications/).
 
