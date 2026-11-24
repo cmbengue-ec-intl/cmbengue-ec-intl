@@ -1,13 +1,13 @@
 # Cheikh Oumar Mbengue
 
-Climate scientist and engineer in Castries, Saint Lucia.
+Climate scientist and engineer by training in Castries, Saint Lucia.
 
-I am the founder and Managing Director of [Elizabeth Consulting International Inc.](https://www.ec-intl.com) (ECI), and the Project Manager, a Research Scientist, and the Model Products Lead at the [Climate Modeling Alliance](https://clima.caltech.edu) (CliMA) at Caltech. My published research is on midlatitude storm tracks, the eddy-driven jet, the Hadley circulation, and tropical-extratropical interactions.
+I am the founder and Managing Director of [Elizabeth Consulting International Inc.](https://www.ec-intl.com) (ECI), and the Project Manager, a Senior Research Scientist, and the Model Products Lead at the [Climate Modeling Alliance](https://clima.caltech.edu) (CliMA) at Caltech. My published research is on midlatitude storm tracks, the eddy-driven jet, the Hadley circulation, and tropical-extratropical interactions.
 
 ## Current work
 
 - Managing the development of the CliMA Earth system model.
-- The [Building Engineering Design Tool](https://ecodesign.clima.caltech.edu), a web application that delivers climate design conditions and their projections to planners and engineers.
+- I led the software team that developed [ecodesign (Building Engineering Design Tool)](https://ecodesign.clima.caltech.edu/server/), a web application providing historical and projected climate design conditions for selected cities. CliMA provides the prototype in collaboration with ECI.
 - Managing the development of small business management and optimization software at ECI.
 - Integrating AI into management and delivery processes.
 
